@@ -10,12 +10,13 @@
 
 /*** contact style** **/
 .contact-main {
-    height: 500px;
+    height: 900px;
     width: 100%;
+    margin-top: 90px;
 }
 
 .contact-sec {
-    height: 450px;
+    height: 600px;
     width: 48%;
     float: left;
     border: blueviolet;
